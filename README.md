@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Saloni Satav
+ENTC Undergraduate
+Currently learning Java Full Stack Development and Data Structures & Algorithms.
+Passionate about building real-world projects, improving problem-solving skills, and growing as a software developer.
 
-<!--
-**Saloni-1415/Saloni-1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Current Goals
+- Complete Java Full Stack Development
+- Master Data Structures & Algorithms
+- Build impactful projects
+- Prepare for internships and future opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+- Full Stack Development
+- Problem Solving
+- Software Engineering
+- IoT 
+
+Connect With Me
+-Email: salonisatav85@gmail.com
+-LinkedIn: [Saloni Satav](https://www.linkedin.com/in/saloni-satav-59329832a)
